@@ -1,2 +1,0 @@
-# Something.github.io
-Website
